@@ -1,0 +1,7 @@
+name: CoreAPI
+version: 1.0
+author: FloLang
+main: de.flolang.coreapi.bungee.CoreAPI
+
+commands:
+  debug:
